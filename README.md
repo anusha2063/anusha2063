@@ -19,7 +19,6 @@
 ---
 
 ### 🛠️ Languages & Tools:
-## 🧑‍💻 Languages & Tools Used
 
 ## 🧑‍💻 Languages & Tools Used
 
