@@ -7,7 +7,7 @@
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 ---
 
 - 🔭 I’m currently working on **Node.js Projects**
