@@ -1,24 +1,35 @@
-<h1 align="center">Hi!!, I'm Anusha❤️</h1>
-<h3 align="center">A Passionate Web Developer and BCA Student  </h3>
+<h1 align="center">Hi!! I'm Anusha ❤️</h1>
+<h3 align="center">A Passionate Web Developer & BCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Programmer;Web+Development+Enthusiast;Learning+Daily&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Programmer;Web+Development+Enthusiast;Learning+Daily&center=true&width=400&height=45">
+</p>
+
+<center><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/></center>
+
+
+
+---
+
+### ✨ About Me
+
+- 🔭 I’m currently working on **Node.js Projects**
+- 🌱 I’m learning **JavaScript, APIs & Full-Stack Development**
+- 👯 I’m looking to collaborate on **Frontend Open-Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- 📫 Reach me at: [kanusha2063@gmail.com](mailto:kanusha2063@gmail.com)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anusha2063&theme=onedark&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
----
-
-- 🔭 I’m currently working on **Node.js Projects**
-- 🌱 I’m learning **JavaScript, APIs & Web Projects**
-- 👯 I’m looking to collaborate on **Open-Source Frontend Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: **kanusha2063@gmail.com**
-
----
-
-### 🛠️ Languages & Tools I Use:
+### 🛠️ Languages & Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -35,17 +46,18 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anusha2063&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha2063&layout=compact&theme=radical" width="48%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=anusha2063&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha2063&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 
+---
 
 ### 💖 Support Me
 
-If you like my work, please consider giving a ⭐ to my repositories.  
-It motivates me to keep learning and sharing. 😊
+If you like what I’m doing, give my repositories a ⭐!  
+It keeps me motivated to learn, create, and share more with you all. 😊
+
