@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Programmer;Web+Development+Enthusiast;Learning+Daily&center=true&width=400&height=45">
 </p>
 
-<center><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/></center>
+
 
 
 
