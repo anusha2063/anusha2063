@@ -1,9 +1,7 @@
 <h1 align="center">Hi!! I'm Anusha ❤️</h1>
 <h3 align="center">A Passionate Web Developer & BCA Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Programmer;Web+Development+Enthusiast;Learning+Daily&center=true&width=400&height=45">
-</p>
+
 
 
 
