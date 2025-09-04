@@ -3,6 +3,6 @@
 
 ###  Support Me
 
-If you like what I’m doing, give my repositories a ⭐!  
-It keeps me motivated to learn, create, and share more with you all. 
+If you like what I’m doing, give my repositories a star!  
+
 
