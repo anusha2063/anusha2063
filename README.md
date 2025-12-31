@@ -1,16 +1,11 @@
 ```
+<div align="center">
+  
 ✦ ─────────────────────────────────── ✦
         ♡ ᴀɴᴜsʜᴀ's ᴄᴏᴅɪɴɢ ᴅɪᴀʀʏ ♡
 ✦ ─────────────────────────────────── ✦
 ```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQyOTI0ODZiOGYxNGQ2ZjA2NTYzODEwY2EwZWI4ZjYzOTg5NTJlNCZjdD1n/BzyTuYCmvSORqs1ABM/giphy.gif" width="80" alt="sparkle">
-  
-  <p style="font-size: 16px;"><i>creative developer ~ pixel perfectionist ~ ui enthusiast</i></p>
-</div>
-
-<br>
 
 ---
 
@@ -84,18 +79,7 @@ a passionate frontend developer crafting beautiful, intuitive web experiences. i
 
 ---
 
-## ✧ GitHub Statistics
 
-<div align="center">
-  
-  <a href="https://github.com/anusha2063">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anusha2063&theme=tokyonight&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anusha2063&theme=tokyonight&layout=compact"/>
-  </a>
-  
-</div>
-
----
 
 ## ✧ Featured Projects
 
